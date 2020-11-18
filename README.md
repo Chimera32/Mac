@@ -1,4 +1,4 @@
-# macintosh.js
+# macintosh pc
 
 This is Mac OS 8, running in an [Electron](https://electronjs.org/) app pretending to be a 1991 Macintosh Quadra. Yes, it's the full thing. I'm sorry.
 
