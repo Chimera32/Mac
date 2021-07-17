@@ -9,7 +9,7 @@ This is Mac OS 8, running in an [Electron](https://electronjs.org/)
 |  | Windows | macOS | Linux |
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Standalone Download | 📦[Standalone, 32-bit](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintosh.js-win32-ia32-1.0.6.zip) <br /> 📦[Standalone, 64-bit](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintosh.js-win32-x64-1.0.6.zip)  | 📦[Standalone](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintosh.js-darwin-x64-1.0.6.zip) |  |
-| Installer | 💽[Setup, 64-bit](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintoshjs-1.0.6-setup-x64.exe) <br /> 💽[Setup, 32-bit](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintoshjs-1.0.6-setup-ia32.exe)  |  |  💽[deb, 64-bit](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintosh.js_1.0.6_amd64.deb) <br /> 💽[rpm, 64-bit](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintosh.js-1.0.6-1.x86_64.rpm) |
+| Installer | 💽[Not working setup, Try Standalone](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintoshjs-1.0.6-setup-x64.exe) <br /> 💽[Click standalone](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintoshjs-1.0.6-setup-ia32.exe)  |  |  💽[deb, 64-bit](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintosh.js_1.0.6_amd64.deb) <br /> 💽[rpm, 64-bit](https://github.com/felixrieseberg/macintosh.js/releases/download/v1.0.6/macintosh.js-1.0.6-1.x86_64.rpm) |
 
 ## Does it work?
 Yes! Quite well, actually - on macOS, Windows, and Linux. Bear in mind that this is written entirely in JavaScript, so please adjust your expectations. The virtual machine is emulating a 1991 Macintosh Quadra 900 with a Motorola CPU, which Apple used before switching to the PowerPC architecture (Apple/IBM/Motorola) in the mid 1990s.
@@ -36,9 +36,9 @@ Probably not. This is a toy - it's not the best nor the most performant way to e
 
 ## Credits
 
-Please check out the [CREDITS](CREDITS.md)! This app wouldn't be possible without the hard work of [Christian Bauer](https://www.cebix.net/) and [James Friend](https://jamesfriend.com.au/), who did everything that seems like computing magic here.
+Please check out the [CREDITS](CREDITS.md)! This app wouldn't be possible without the hard work of [Christian Bauer](https://www.cebix.net/) and [Chimera32](https://github.com/Chimera32), who did everything that seems like computing magic here.
 
 ## License
 
 This project is provided for educational purposes only. It is not affiliated with and has
-not been approved by Apple.
+not been approved by Apple (And Also You Lmao Nigger
