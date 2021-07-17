@@ -1,4 +1,4 @@
-# macintosh pc
+# MacPCx
 
 This is Mac OS 8, running in an [Electron](https://electronjs.org/)
 
